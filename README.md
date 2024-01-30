@@ -16,7 +16,7 @@ The "City Skyline" project is part of the FreeCodeCamp.org Responsive Web Design
 - CSS3
 
 ## Usage
-Explore the live demo [here](https://ferris-wheel-99.netlify.app/) to experience the responsive city skyline.
+Explore the live demo [here](https://city-skyline-99.netlify.app/) to experience the responsive city skyline.
 
 ## How to Contribute
 Contributions aimed at improving the project's aesthetics, responsiveness, or adding new features are welcomed. Fork this repository, make necessary changes, and submit a pull request for review.
